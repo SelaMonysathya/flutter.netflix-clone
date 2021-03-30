@@ -1,16 +1,13 @@
-# netflix_clone
+# Netflix Redesign Clone
 
-A new Flutter project.
+![Mockup](https://user-images.githubusercontent.com/45874497/113017407-9af24000-91a9-11eb-8b5f-d16ae7483004.jpg)
 
-## Getting Started
+Today we gonna build Netflix redesign app #UI using #Flutter. That has three parts such as:
+- [Part I: Root Page With Home Page](https://bit.ly/2PnTeaZ)
+- [Part II: Coming Soon Page](https://bit.ly/3wfJ78L)
+- [Part III: Movie Detail Page](https://bit.ly/3wbKkOy)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Connect with me:
+- [youtube](https://bit.ly/3u1KPIU)
+- [facebook](https://bit.ly/2NDW62g)
+- [instagram](https://bit.ly/3atGA0X)
