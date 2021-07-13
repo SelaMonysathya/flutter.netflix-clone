@@ -24,10 +24,12 @@ class _HomePageState extends State<HomePage> {
     return ListView(
       children: [
         CarouselSlider(
-          enlargeCenterPage: true,
-          aspectRatio: 2.0,
-          viewportFraction: 0.93,
-          autoPlay: true,
+          options: CarouselOptions(
+            enlargeCenterPage: true,
+            aspectRatio: 2.0,
+            viewportFraction: 0.93,
+            autoPlay: true,
+          ),
           items: List.generate(sliders.length, (index) {
             return Container(
               margin: EdgeInsets.symmetric(horizontal: 8),
@@ -119,7 +121,7 @@ class _HomePageState extends State<HomePage> {
                                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                                 children: [
                                   Text(continueWatchings[0]['name'], style: TextStyle(color: white, fontSize: 14),),
-                                  Icon(LineIcons.play_circle, color: white,)
+                                  Icon(LineIcons.playCircle, color: white,)
                                 ],
                               ),
                             ],

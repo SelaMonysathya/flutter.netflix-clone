@@ -86,7 +86,7 @@ class _RootPageState extends State<RootPage> {
           backgroundColor: black,
         ),
         NavigationBarButton(
-          icon: LineIcons.youtube_play,
+          icon: LineIcons.youtube,
           backgroundColor: black,
         ),
         NavigationBarButton(

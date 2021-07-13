@@ -52,7 +52,7 @@ class _MovieDetailPageState extends State<MovieDetailPage> {
                         }
                       ),
                       IconButton(
-                        icon: Icon(LineIcons.heart_o, color: white),
+                        icon: Icon(LineIcons.heart, color: white),
                         onPressed: () {}
                       ),
                     ],
