@@ -8,6 +8,7 @@ Today we gonna build Netflix redesign app #UI using #Flutter. That has three par
 - [Part III: Movie Detail Page](https://bit.ly/3wbKkOy)
 
 ## Connect with me:
-- [youtube](https://bit.ly/3u1KPIU)
-- [facebook](https://bit.ly/2NDW62g)
-- [instagram](https://bit.ly/3atGA0X)
+- [Youtube](https://bit.ly/3u1KPIU)
+- [Facebook](https://bit.ly/2NDW62g)
+- [Facebook Page](https://bit.ly/3rE7Fqj)
+- [Instagram](https://bit.ly/3atGA0X)
